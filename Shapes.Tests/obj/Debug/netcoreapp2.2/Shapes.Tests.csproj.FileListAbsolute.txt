@@ -1,0 +1,17 @@
+/Users/macbookpro/Desktop/Shapes.Solution/Shapes.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/macbookpro/Desktop/Shapes.Solution/Shapes.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/macbookpro/Desktop/Shapes.Solution/Shapes.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/macbookpro/Desktop/Shapes.Solution/Shapes.Tests/bin/Debug/netcoreapp2.2/Shapes.Tests.deps.json
+/Users/macbookpro/Desktop/Shapes.Solution/Shapes.Tests/bin/Debug/netcoreapp2.2/Shapes.Tests.runtimeconfig.json
+/Users/macbookpro/Desktop/Shapes.Solution/Shapes.Tests/bin/Debug/netcoreapp2.2/Shapes.Tests.runtimeconfig.dev.json
+/Users/macbookpro/Desktop/Shapes.Solution/Shapes.Tests/bin/Debug/netcoreapp2.2/Shapes.Tests.dll
+/Users/macbookpro/Desktop/Shapes.Solution/Shapes.Tests/bin/Debug/netcoreapp2.2/Shapes.Tests.pdb
+/Users/macbookpro/Desktop/Shapes.Solution/Shapes.Tests/bin/Debug/netcoreapp2.2/Shapes.dll
+/Users/macbookpro/Desktop/Shapes.Solution/Shapes.Tests/bin/Debug/netcoreapp2.2/Shapes.pdb
+/Users/macbookpro/Desktop/Shapes.Solution/Shapes.Tests/obj/Debug/netcoreapp2.2/Shapes.Tests.csprojAssemblyReference.cache
+/Users/macbookpro/Desktop/Shapes.Solution/Shapes.Tests/obj/Debug/netcoreapp2.2/Shapes.Tests.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Desktop/Shapes.Solution/Shapes.Tests/obj/Debug/netcoreapp2.2/Shapes.Tests.AssemblyInfoInputs.cache
+/Users/macbookpro/Desktop/Shapes.Solution/Shapes.Tests/obj/Debug/netcoreapp2.2/Shapes.Tests.AssemblyInfo.cs
+/Users/macbookpro/Desktop/Shapes.Solution/Shapes.Tests/obj/Debug/netcoreapp2.2/Shapes.Tests.csproj.CopyComplete
+/Users/macbookpro/Desktop/Shapes.Solution/Shapes.Tests/obj/Debug/netcoreapp2.2/Shapes.Tests.dll
+/Users/macbookpro/Desktop/Shapes.Solution/Shapes.Tests/obj/Debug/netcoreapp2.2/Shapes.Tests.pdb
